@@ -1,0 +1,9 @@
+En la imagen de la parte final quiero que le quites todo el texto, deja solamente la imagen.
+En la parte de especializacion, cambialo por: representante, de: PICKUP, VAN, MINIBUS, MINITRUCK, LDT.
+En la parte superior donde va la imagen usa la imagen JP.1. Pon la imagen tipo red social, circular y al lado izquierdo.
+quiero que en la primera imagen del bucle salga un boton de bordes de color blanco y fondo transparente, este boton debe estar a la esquina superior derecha. en el centro debe de
+decir, provar vista 720°. Las imagenes se pasaran automaticamente cada 5 segundo cada una. Se mantienen las flechas funcionales y el boton nuevo. tambien quiero que al hacer click en
+las imagenes se habra una visualizacion de la que hayas hecho click, es como el mismo cuadro de imagenes de bucle pero en     
+version grande, y de nuevo solo en F1 aparecera el boton. Al presionar el boton desde esta visualizacion se abrira el         
+link:https://zhanting2023.foton.com.cn/p4_9/
+Arregla lo de las tildes.
